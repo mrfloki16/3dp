@@ -23,5 +23,8 @@ delete : light, cam
 - transforme: change the Dimension to the size of the bedfloor (200mmx200mmx0mm)
 - object propreties - viewport display - display as wire
 
+# change preferences
+- edit- preferences
+- add add-ons: 3D-Print Toolbox, Modifier Tools, Add Mesh: Extra Objects, LoopTools, Bool Tool, Rigify
 # make as defaults file
 - file - defaults - save startup file
