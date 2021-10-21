@@ -1,0 +1,27 @@
+# setting up blender for 3d modeling
+space bar : tools
+
+# useful shortcuts
+n : transforme
+
+# change the size to be perfect in stl
+scene propreties in botom-right toolbox
+units
+- length: millimeters 
+- unit scale 0.001
+
+overlays in top-rigth main screen
+guide
+scales : 0.001
+
+# make a good sceen
+delete : light, cam
+
+# make a floor
+- click on the cube and change name for floor
+- go to modeling : gz-1
+- transforme: change the Dimension to the size of the bedfloor (200mmx200mmx0mm)
+- object propreties - viewport display - display as wire
+
+# make as defaults file
+- file - defaults - save startup file
