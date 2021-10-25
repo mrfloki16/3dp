@@ -1,0 +1,5 @@
+# manual help
+clean the bed with alcool
+
+# technical help
+set the initial layer line width to 125% 

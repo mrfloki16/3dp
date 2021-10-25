@@ -1,0 +1,34 @@
+#VIEW#
+
+# center our model
+shift c : view; aligne view; center cursor and frame all
+
+# orbit view
+- use the numpad, with ctr
+- use scroll mouth
+
+# pan view
+- shift + scroll
+
+#MOVEMENT#
+# perspective
+numpad 5
+
+# select all
+a
+# deselect all
+ctrl + a
+
+# add menu
+shift + a
+
+# move : grabe
+g
+
+
+# controle the axis
+ctrl + z,x,y
+# controle whitout the axis
+shift + z,x,y
+
+#ROTATION&SCALING#
